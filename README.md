@@ -1,4 +1,4 @@
-# ASSIGNMENT 2 : Worker Task Management System (WTMS) 
+# LAB ASSIGNMENT 2 : Worker Task Management System (WTMS) 
 <table border="1">
   <tr>
     <td><strong>Name</strong></td>
