@@ -11,7 +11,7 @@ import 'package:t6_mpa2/view/forgotpass_screen.dart';
 import 'package:t6_mpa2/view/home_screen.dart';
 import 'package:t6_mpa2/view/register_screen.dart';
 
-// Login screen widget (stateful because it manages form state and visibility)
+// Login screen widget (stateful because it manages form state and visibility
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
 
